@@ -8,7 +8,7 @@
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tarronacuff/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/tarronacuff/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/tarronacuff/osTicket-Configuration)
   - [osTicket: Ticket Operations Examples](https://github.com/tarronacuff/osTicket-Ticket-Operations)
 
 
