@@ -14,7 +14,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- CompTIA Sec+ - In progress
+- CompTIA Security+ - In progress
 
 <h2>🤳Connect with me:</h2>
 
