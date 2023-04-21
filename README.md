@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Create a New Azure Account and Setup Virtual Machines](https://github.com/tarronacuff/new-azure-account)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tarronacuff/configure-ad)
+  - [Configuring On-premises Active Directory](https://github.com/tarronacuff/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tarronacuff/azure-network-protocols)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
