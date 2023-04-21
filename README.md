@@ -12,6 +12,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/tarronacuff/osTicket-Configuration)
   - [osTicket: Ticket Operations Examples](https://github.com/tarronacuff/osTicket-Ticket-Operations)
 
+<h2>📄 Certifications:</h2>
+
+- [CompTIA Sec+ - In progress]
 
 <h2>🤳Connect with me:</h2>
 
