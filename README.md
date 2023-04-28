@@ -3,18 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Create a New Azure Account and Setup Virtual Machines](https://github.com/tarronacuff/new-azure-account)
-  - [Configuring On-premises Active Directory](https://github.com/tarronacuff/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tarronacuff/azure-network-protocols)
+    - [Active Directory Deployment](https://github.com/tarronacuff/deploy-ad)
   
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tarronacuff/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/tarronacuff/osTicket-Configuration)
-  - [osTicket: Ticket Operations Examples](https://github.com/tarronacuff/osTicket-Ticket-Operations)
 
 <h2>📄 Certifications:</h2>
 
-- CompTIA Security+ - In progress
+- Microsoft Azure Fundamentals AZ-900 - In progress (May 2023)
+- CompTIA Security+ - In progress (Sept 2023)
 
 <h2>🤳Connect with me:</h2>
 
