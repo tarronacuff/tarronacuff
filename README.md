@@ -17,6 +17,7 @@
 
 - Microsoft Azure Fundamentals AZ-900 - In progress (May 2023)
 - CompTIA Security+ - In progress (Sept 2023)
+- CourseCareers Practical Help Desk Professional (PHDP)
 
 <h2>🤳Connect with me:</h2>
 
