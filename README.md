@@ -3,7 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-    - [Active Directory Deployment](https://github.com/tarronacuff/deploy-ad)
+  - [Create a New Azure Account and Setup Virtual Machines](https://github.com/tarronacuff/new-azure-account)
+  - [Active Directory Deployment](https://github.com/tarronacuff/deploy-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tarronacuff/azure-network-protocols)
+  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/tarronacuff/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/tarronacuff/osTicket-Configuration)
+  - [osTicket: Ticket Operations Examples](https://github.com/tarronacuff/osTicket-Ticket-Operations)
   
 
 <h2>📄 Certifications:</h2>
